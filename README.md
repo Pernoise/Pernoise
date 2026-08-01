@@ -12,5 +12,5 @@ Just a guy who likes building stuff and breaking things along the way. Right now
 ## Links
 
 - Repo: [Rocket-client](https://github.com/Pernoise/Rocket-client)
-- Discord: [add me](https://discord.com/invite/urHfdFdsbh), always down to talk
+- Discord: [add me](https://discord.com/invite/urHfdFdsbh)
 - Website: [rocketclient](https://rocketclient.rocketclient.abrdns.com)
